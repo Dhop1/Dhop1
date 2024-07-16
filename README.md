@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhop1
+- 👋 Hi, I’m David D. Hopkins
 - 👀 I’m interested in Machine Learning/AI Engineering
 - 🌱 I’m currently studying in Codecademy both Python and Data & Programming Foundations for AI
 - 💞️ I’m looking to collaborate on any projects related to AI in Education. 
