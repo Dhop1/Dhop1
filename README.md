@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying in Codecademy both Python and Data & Programming Foundations for AI
 - 💞️ I’m looking to collaborate on any projects related to AI in Education. 
 - 📫 How to reach me through email or DM on LinkedIn
-- ⚡ Fun fact: ... I have been a college professor for over 20 years in the Humanities and now diving into AI & Machine Learning. 
+- ⚡ Fun fact: I have been a college professor for over 20 years in the Humanities and now diving into AI & Machine Learning. 
 
 <!---
 Dhop1/Dhop1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
